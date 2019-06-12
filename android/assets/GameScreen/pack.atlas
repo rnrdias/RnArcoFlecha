@@ -1,0 +1,885 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 2, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 50
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 2, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 51
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 152, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 52
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 2, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 53
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 152, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 54
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 302, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 55
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 152, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 56
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 302, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 57
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 452, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 58
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 302, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 59
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 452, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 60
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 602, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 61
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 452, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 62
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 602, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 63
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 752, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 64
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 602, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 65
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 752, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 66
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 752, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 67
+
+pack2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 2, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 68
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 2, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 69
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 152, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 70
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 2, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 71
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 152, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 72
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 302, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 73
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 152, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 74
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 302, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 75
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 452, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 76
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 302, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 77
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 452, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 78
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 602, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 79
+Arco/ArcoAniCorpo
+  rotate: false
+  xy: 452, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 80
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 602, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 103
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 752, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 104
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 602, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 105
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 752, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 106
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 752, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 107
+
+pack3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 2, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 108
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 2, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 109
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 152, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 110
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 2, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 111
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 152, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 112
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 302, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 113
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 152, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 114
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 302, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1090
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 452, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1091
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 302, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1092
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 452, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1093
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 602, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1094
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 452, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1095
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 602, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1096
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 752, 518
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1097
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 602, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1098
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 752, 260
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1099
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 752, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1101
+
+pack4.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Arco/ArcoAniPernas
+  rotate: false
+  xy: 2, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: 1102
+Arco/flecha
+  rotate: false
+  xy: 152, 2
+  size: 148, 256
+  orig: 148, 256
+  offset: 0, 0
+  index: -1
+
+pack5.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 2, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 1
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 68, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 9
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 134, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 11
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 200, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 12
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 266, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 14
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 332, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 15
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 398, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 16
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 464, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 18
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 530, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 19
+Bexiga/BexigaAniEstouro
+  rotate: false
+  xy: 596, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 20
+
+pack6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SubTelas/IconeVibra
+  rotate: false
+  xy: 872, 671
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+SubTelas/barra
+  rotate: false
+  xy: 150, 400
+  size: 206, 12
+  orig: 206, 12
+  offset: 0, 0
+  index: -1
+SubTelas/botao
+  rotate: false
+  xy: 150, 338
+  size: 155, 60
+  orig: 155, 60
+  offset: 0, 0
+  index: -1
+SubTelas/botaoContinuar
+  rotate: false
+  xy: 872, 883
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+SubTelas/botaoProximo
+  rotate: false
+  xy: 2, 279
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+SubTelas/botaoSair
+  rotate: false
+  xy: 872, 748
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+SubTelas/botaoTentarNovamente
+  rotate: false
+  xy: 2, 145
+  size: 146, 132
+  orig: 146, 132
+  offset: 0, 0
+  index: -1
+SubTelas/iconeEstrela
+  rotate: false
+  xy: 872, 631
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+SubTelas/iconeFlechas
+  rotate: false
+  xy: 953, 704
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+SubTelas/iconeMusica
+  rotate: false
+  xy: 2, 72
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+SubTelas/iconePontos
+  rotate: false
+  xy: 307, 354
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+SubTelas/iconeSom
+  rotate: false
+  xy: 150, 266
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+SubTelas/janelaConfig
+  rotate: false
+  xy: 2, 414
+  size: 433, 602
+  orig: 433, 602
+  offset: 0, 0
+  index: -1
+SubTelas/janelaPause
+  rotate: false
+  xy: 437, 2
+  size: 433, 452
+  orig: 433, 452
+  offset: 0, 0
+  index: -1
+SubTelas/janelaVitoria
+  rotate: false
+  xy: 437, 456
+  size: 433, 560
+  orig: 433, 560
+  offset: 0, 0
+  index: -1
+SubTelas/knob
+  rotate: false
+  xy: 2, 50
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+
+pack7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Telas/PlacaB
+  rotate: false
+  xy: 2, 269
+  size: 770, 656
+  orig: 770, 656
+  offset: 0, 0
+  index: -1
+Telas/ba
+  rotate: false
+  xy: 174, 2
+  size: 161, 138
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+Telas/bc
+  rotate: false
+  xy: 337, 2
+  size: 153, 138
+  orig: 153, 138
+  offset: 0, 0
+  index: -1
+Telas/bna
+  rotate: false
+  xy: 774, 481
+  size: 161, 138
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+Telas/bp
+  rotate: false
+  xy: 2, 2
+  size: 170, 138
+  orig: 170, 138
+  offset: 0, 0
+  index: -1
+Telas/bv
+  rotate: false
+  xy: 774, 621
+  size: 170, 138
+  orig: 170, 138
+  offset: 0, 0
+  index: -1
+Telas/bvB
+  rotate: false
+  xy: 774, 761
+  size: 170, 164
+  orig: 170, 164
+  offset: 0, 0
+  index: -1
+Telas/titulo
+  rotate: false
+  xy: 2, 142
+  size: 500, 125
+  orig: 500, 125
+  offset: 0, 0
+  index: -1
+
+pack8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Telas/arv_dir
+  rotate: false
+  xy: 370, 2
+  size: 517, 720
+  orig: 517, 720
+  offset: 0, 0
+  index: -1
+Telas/pers
+  rotate: false
+  xy: 2, 175
+  size: 366, 547
+  orig: 366, 547
+  offset: 0, 0
+  index: -1
+
+pack9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Telas/arv_esq
+  rotate: false
+  xy: 2, 2
+  size: 673, 720
+  orig: 673, 720
+  offset: 0, 0
+  index: -1
+
+pack10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 782
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 0
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 626
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 1
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 782
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 2
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 470
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 3
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 626
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 4
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 314
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 5
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 470
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 6
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 158
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 7
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 314
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 8
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 314
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 23
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 2
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 9
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 158
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 10
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 2
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 11
+
+pack11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 782
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 12
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 626
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 13
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 782
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 14
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 470
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 15
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 626
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 16
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 314
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 17
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 470
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 18
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 158
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 19
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 314
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 20
+Telas/placaAni/placas
+  rotate: false
+  xy: 2, 2
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 21
+Telas/placaAni/placas
+  rotate: false
+  xy: 502, 158
+  size: 498, 154
+  orig: 498, 154
+  offset: 0, 0
+  index: 22

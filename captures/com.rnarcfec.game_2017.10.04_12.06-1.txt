@@ -1,0 +1,146 @@
+CURRENT STATS:
+System memory usage:
+  SOn /Norm: 2 samples:
+    Cached: 242MB min, 283MB avg, 324MB max
+    Free: 19MB min, 21MB avg, 24MB max
+    ZRam: 94MB min, 101MB avg, 109MB max
+    Kernel: 341MB min, 349MB avg, 356MB max
+    Native: 53MB min, 54MB avg, 54MB max
+
+Per-Package Stats:
+  * com.rnarcfec.game / u0a150 / v1:
+      * com.rnarcfec.game / u0a150 / v1:
+               TOTAL: 3,8% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+                 Top: 3,8% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+
+Summary:
+  * com.rnarcfec.game / u0a150 / v1:
+           TOTAL: 3,8% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+             Top: 3,8% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+
+Run time Stats:
+  SOff/Norm: +1h17m5s142ms
+  SOn /Norm: +4m23s64ms (running)
+      TOTAL: +1h21m28s206ms
+
+Memory usage:
+  Kernel : 349MB (16 samples)
+  Native : 54MB (16 samples)
+  Persist: 198MB (72 samples)
+  Top    : 1,1MB (59 samples)
+  ImpFg  : 230MB (120 samples)
+  ImpBg  : 19MB (39 samples)
+  Service: 241MB (191 samples)
+  Receivr: 17KB (102 samples)
+  CchAct : 241MB (6 samples)
+  CchCAct: 9,9MB (12 samples)
+  CchEmty: 187MB (96 samples)
+  Cached : 283MB (16 samples)
+  Free   : 21MB (16 samples)
+  Z-Ram  : 101MB (16 samples)
+  TOTAL  : 1,9GB
+  ServRst: 12KB (11 samples)
+
+          Start time: 2017-10-04 10:45:01
+  Total elapsed time: +1h21m28s221ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOff/Norm: 3 samples:
+    Cached: 194MB min, 238MB avg, 289MB max
+    Free: 124MB min, 404MB avg, 591MB max
+    ZRam: 65MB min, 68MB avg, 73MB max
+    Kernel: 314MB min, 327MB avg, 353MB max
+    Native: 49MB min, 57MB avg, 61MB max
+  SOn /Norm: 9 samples:
+    Cached: 242MB min, 378MB avg, 610MB max
+    Free: 18MB min, 25MB avg, 48MB max
+    ZRam: 42MB min, 70MB avg, 109MB max
+    Kernel: 327MB min, 345MB avg, 356MB max
+    Native: 53MB min, 64MB avg, 82MB max
+
+Per-Package Stats:
+  * com.rnarcfec.game / u0a150 / v1:
+      * com.rnarcfec.game / u0a150 / v1:
+               TOTAL: 0,23% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+                 Top: 0,23% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+
+Summary:
+  * com.rnarcfec.game / u0a150 / v1:
+           TOTAL: 0,23% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+             Top: 0,23% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+
+Run time Stats:
+  SOff/Norm: +21h11m13s640ms
+       Mod : +7m44s290ms
+  SOn /Norm: +1h11m14s732ms
+      TOTAL: +22h30m12s662ms
+
+Memory usage:
+  Kernel : 328MB (84 samples)
+  Native : 57MB (84 samples)
+  Persist: 215MB (945 samples)
+  Top    : 16MB (422 samples)
+  ImpFg  : 215MB (1614 samples)
+  ImpBg  : 21MB (768 samples)
+  Service: 268MB (2772 samples)
+  Receivr: 11KB (1397 samples)
+  LastAct: 0,96MB (102 samples)
+  CchAct : 220MB (112 samples)
+  CchCAct: 12MB (47 samples)
+  CchEmty: 147MB (987 samples)
+  Cached : 246MB (84 samples)
+  Free   : 383MB (84 samples)
+  Z-Ram  : 68MB (84 samples)
+  TOTAL  : 2,1GB
+  ServRst: 3,4KB (553 samples)
+
+          Start time: 2017-10-03 13:36:16
+  Total elapsed time: +22h30m12s662ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOn /Norm: 3 samples:
+    Cached: 242MB min, 273MB avg, 324MB max
+    Free: 19MB min, 21MB avg, 24MB max
+    ZRam: 72MB min, 92MB avg, 109MB max
+    Kernel: 341MB min, 350MB avg, 356MB max
+    Native: 53MB min, 54MB avg, 56MB max
+
+Per-Package Stats:
+  * com.rnarcfec.game / u0a150 / v1:
+      * com.rnarcfec.game / u0a150 / v1:
+               TOTAL: 1,2% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+                 Top: 1,2% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+
+Summary:
+  * com.rnarcfec.game / u0a150 / v1:
+           TOTAL: 1,2% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+             Top: 1,2% (83MB-85MB-86MB/80MB-82MB-83MB over 3)
+
+Run time Stats:
+  SOff/Norm: +4h16m31s413ms
+  SOn /Norm: +5m32s909ms
+      TOTAL: +4h22m4s322ms
+
+Memory usage:
+  Kernel : 350MB (24 samples)
+  Native : 54MB (24 samples)
+  Persist: 206MB (198 samples)
+  Top    : 2,3MB (70 samples)
+  ImpFg  : 216MB (301 samples)
+  ImpBg  : 20MB (91 samples)
+  Service: 260MB (519 samples)
+  Receivr: 11KB (231 samples)
+  LastAct: 298KB (1 samples)
+  CchAct : 270MB (13 samples)
+  CchCAct: 13MB (14 samples)
+  CchEmty: 183MB (201 samples)
+  Cached : 273MB (24 samples)
+  Free   : 21MB (24 samples)
+  Z-Ram  : 92MB (24 samples)
+  TOTAL  : 1,9GB
+  ServRst: 2,9KB (30 samples)
+
+          Start time: 2017-10-04 07:44:25
+  Total elapsed time: +4h22m4s322ms (partial) libart.so

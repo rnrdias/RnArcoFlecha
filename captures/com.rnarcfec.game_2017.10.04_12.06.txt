@@ -1,0 +1,49 @@
+Applications Memory Usage (kB):
+Uptime: 342020010 Realtime: 342020010
+
+** MEMINFO in pid 11661 [com.rnarcfec.game] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    10189    10140        0    25108    40320    38046     2273
+  Dalvik Heap     3971     3948        0     1384    12614    11344     1270
+ Dalvik Other     1359     1332        0     5116                           
+        Stack      544      544        0        0                           
+       Ashmem        9        4        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     2254      168     1020     3704                           
+    .apk mmap      126        0        0        0                           
+    .dex mmap     2496     2412       84        4                           
+    .oat mmap     1742        0      680        0                           
+    .art mmap     1075      616       12      112                           
+   Other mmap       16        8        0        0                           
+   EGL mtrack     7575     7575        0        0                           
+    GL mtrack    56720    56720        0        0                           
+      Unknown      216      216        0      152                           
+        TOTAL    88296    83683     1800    35580    52934    49390     3543
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     4576
+         Native Heap:    10140
+                Code:     4364
+               Stack:      544
+            Graphics:    64295
+       Private Other:     1564
+              System:     2813
+ 
+               TOTAL:    88296      TOTAL SWAP (KB):    35580
+ 
+ Objects
+               Views:        5         ViewRootImpl:        1
+         AppContexts:        2           Activities:        1
+              Assets:        3        AssetManagers:        2
+       Local Binders:       12        Proxy Binders:       14
+       Parcel memory:        4         Parcel count:       19
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
