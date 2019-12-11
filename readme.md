@@ -1,8 +1,11 @@
 # RnArcoFlecha
-Game de arco flecha desenvolvido com o framework libgdx para PC e Android.
+Game de arco e flecha desenvolvido com o framework libgdx para Windows e Android.
 
 #### Screenshot:
-
+<img src="https://raw.githubusercontent.com/rnrdias/RnArcoFlecha/master/docs/Screenshot_20191211_022214.png"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/rnrdias/RnArcoFlecha/master/docs/Screenshot_20191211_022743.png" width="240" height="auto"/> <img src="https://raw.githubusercontent.com/rnrdias/RnArcoFlecha/master/docs/Screenshot_20191211_023242.png" width="240" height="auto"/> <img src="https://raw.githubusercontent.com/rnrdias/RnArcoFlecha/master/docs/Screenshot_20191211_023321.png" width="240" height="auto"/>
+</p>
 
 ### Licença
 Copyright (c) 2015-2019 Ranieri Dias 
@@ -21,7 +24,9 @@ Você deveria ter recebido uma cópia da Licença Pública Geral GNU
 junto com o RnArcoFlecha. Caso contrário, consulte http://www.gnu.org/licenses/.
 
 ### Marcas comerciais
-Android é uma marca comercial de Google Inc. Google Play é uma marca comercial de Google Inc 
+Android é uma marca comercial de Google Inc. Google Play é uma marca comercial de Google Inc.
+
+Windows é uma marca comercial de Microsoft Corporation.
 
 LibGDX é um framework open source para desenvolvimento de jogos em java, multiplataforma.
 http://www.libgdx.com/
