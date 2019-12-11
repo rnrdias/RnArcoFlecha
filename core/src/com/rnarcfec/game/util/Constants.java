@@ -24,7 +24,7 @@ public class Constants {
      public final static String TEXTURE_GRAMA = "GameScreen/grama.png";
 
      public final static String TEXTURE_TELA_FUNDO = "GameScreen/telaFundo.png";
-     public final static boolean DEBUG_GRAFICOS = true;
+     public final static boolean DEBUG_GRAFICOS = false;
      public final static boolean DEBUG = true;
 
     public static final float BEXIGA_VELOC = 100;

@@ -13,6 +13,7 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.rnarcfec.game.screens.ScreenMainMenu;
 import com.rnarcfec.game.util.Constants;
 import java.util.Stack;
+import com.rnarcfec.game.screens.*;
 
 public class RnArcFecGame extends Game {
 
@@ -50,7 +51,7 @@ public class RnArcFecGame extends Game {
         GamePreferences.instance.load();
         
         this.setScreen(new ScreenMainMenu(this));
-        //this.setScreen(new ScreenTest(this));
+        //this.setScreen(new ScreenGame(this));
         
         gameNivel = 0;
     }

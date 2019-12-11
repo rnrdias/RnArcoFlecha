@@ -38,7 +38,7 @@ public final class ScreenIntroducao implements Screen {
 
     Image fundo;
     ImageButton buttonVoltar;
-    Image placaB;
+    ImageButton placaB;
     Label text1;
     Label text2;
     Label text3;
@@ -107,7 +107,7 @@ public final class ScreenIntroducao implements Screen {
         fundo.setPosition(game.batch.viewportExtendWidth - 3237, -490);
         buttonVoltar = new ImageButton(new TextureRegionDrawable(Assets.instance.button.bvB));
         buttonVoltar.getColor().a = 0;
-        placaB = new Image(Assets.instance.placa.placaB);
+        placaB = new ImageButton(new TextureRegionDrawable(Assets.instance.placa.placaB));
         placaB.getColor().a = 0;
 
         Label.LabelStyle labelStyle = new Label.LabelStyle();
@@ -115,12 +115,12 @@ public final class ScreenIntroducao implements Screen {
         labelStyle.font = font;
         labelStyle.fontColor = new Color(0xb27c73ff);
         //labelStyle.font.getData().setScale(1.5f);
-        text1 = new Label("ola", labelStyle);
-        text1.setVisible(false);
-        text2 = new Label("ola", labelStyle);
-        text2.setVisible(false);
-        text3 = new Label("ola", labelStyle);
+        text3 = new Label("Há uma poluição de balões no aeroporto,", labelStyle);
         text3.setVisible(false);
+        text2 = new Label("que prejudicar todo o tráfico aéreo,", labelStyle);
+        text2.setVisible(false);
+        text1 = new Label("e preciso resolver este problema.", labelStyle);
+        text1.setVisible(false);
 
         stage.addActor(fundo);
         stage.addActor(placaB);
@@ -137,6 +137,13 @@ public final class ScreenIntroducao implements Screen {
             @Override
             public void changed(ChangeListener.ChangeEvent event, Actor actor) {
                 animationFinalize();
+            }
+        });
+
+        placaB.addListener(new ChangeListener() {
+            @Override
+            public void changed(ChangeEvent event, Actor actor) {
+                game.setScreen(new ScreenGame(game));
             }
         });
     }
